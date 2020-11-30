@@ -10,7 +10,7 @@ A powerful tweak for Likee!
    
     | Application | Version | Heart |
     | --- | --- | --- |
-    | [Likee](https://mega.nz/file/tFoEULrY#UIfh0VgbFqekUkUdZh5XbfwnT1tC2NR31AhQ0T6kt8Y) | 3.47.0 | 1.1 |
+    | [Likee](https://mega.nz/file/xdByBLoJ#4DZyVIQPqA_YlzmvaqYQMt00bSwyNZMXl3tqas0Jb5w) | 3.50.3 | 1.2 |
 
         
 &nbsp;
