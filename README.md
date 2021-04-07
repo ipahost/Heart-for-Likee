@@ -10,7 +10,7 @@ A powerful tweak for Likee!
    
     | Application | Version | Heart |
     | --- | --- | --- |
-    | [Likee](https://mega.nz/file/xdByBLoJ#4DZyVIQPqA_YlzmvaqYQMt00bSwyNZMXl3tqas0Jb5w) | 3.50.3 | 1.2 |
+    | [Likee](https://mega.nz/file/JVhkzYQS#wxk5gu_0ecpEIwMIyb_TO8B2q4VIG5xTWqltSZlkWo4) | 3.62.3 | 1.3 |
 
         
 &nbsp;
@@ -41,6 +41,3 @@ A powerful tweak for Likee!
 
 ***Please note that push notifications may not work***
 
-
-### TODO 
-A more thorough guide is needed!  
